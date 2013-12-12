@@ -21,7 +21,7 @@
     <!-- android -->
     <platform name="android">
 
-        <source-file src="src/android/com/phonegap/plugin/echo/echo.java" target-dir="src/com/phonegap/plugins/echo" />
+        <source-file src="src/android/com/phonegap/plugin/echo/Echo.java" target-dir="src/com/phonegap/plugins/echo" />
         
         
        
